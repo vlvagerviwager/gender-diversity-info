@@ -10,3 +10,4 @@ TODO: Better layout on the way.
 - Unconscious gender bias https://www.huffingtonpost.com/lisa-marie-jenkins/unconscious-gender-bias-e_b_7447524.html
 - Gender stereotyping http://adage.com/article/global-news/u-k-bands-gender-stereotypes-ads/309785/
 - Inclusive design at Microsoft https://www.microsoft.com/en-us/design/inclusive
+- Open Diversity Data http://opendiversitydata.org/
