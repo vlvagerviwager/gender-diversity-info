@@ -21,6 +21,6 @@ Please contribute via pull requests or issues.
 - We Should All Be Feminists by Chimamanda Ngozi Adichie
 - The Feminine Mystique by Betty Friedan
 
-# TODO
+## TODO
 
-- Get a better layout
+- Make a better layout
