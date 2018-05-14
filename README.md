@@ -20,6 +20,8 @@ Please contribute via pull requests or issues.
 - The Second Sex by Simone de Beauvoir
 - We Should All Be Feminists by Chimamanda Ngozi Adichie
 - The Feminine Mystique by Betty Friedan
+-  Reset: My Fight for Inclusion and Lasting Change by Ellen Pao
+- Brotopia: Breaking Up the Boys' Club of Silicon Valley by Emily Chang
 
 ## TODO
 
