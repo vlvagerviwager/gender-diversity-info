@@ -11,7 +11,14 @@ Please contribute via pull requests or [issues](https://github.com/zky829/gender
 - [Gender stereotyping](http://adage.com/article/global-news/u-k-bands-gender-stereotypes-ads/309785/)
 - [Inclusive design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
 - [Open Diversity Data](http://opendiversitydata.org/)
-- Not strictly related: [Imposter syndrome in tech](http://juliepagano.com/blog/2013/11/02/it-s-dangerous-to-go-alone-battling-the-invisible-monsters-in-tech/)
+- [Geek Feminism Wiki](http://geekfeminism.wikia.com/)
+
+### Imposter syndrome
+
+Members of underrepresented minorities and women suffer from impostor syndrome in high proportions and may be more susceptible to it.
+
+- [Imposter syndrome in tech](http://juliepagano.com/blog/2013/11/02/it-s-dangerous-to-go-alone-battling-the-invisible-monsters-in-tech/)
+
 
 ## Books
 
