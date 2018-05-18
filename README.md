@@ -19,6 +19,7 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 
 - [Imposter syndrome in tech](http://juliepagano.com/blog/2013/11/02/it-s-dangerous-to-go-alone-battling-the-invisible-monsters-in-tech/)
 - [Overcoming Imposter Syndrome](https://medium.com/the-only-woman-in-the-room/overcoming-impostor-syndrome-bdae04e46ec5)
+- [Geek Feminism Wiki: Imposter syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome)
 
 
 ## Books
