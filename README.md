@@ -23,6 +23,10 @@ Please contribute via pull requests or [issues](https://github.com/zky829/gender
 -  Reset: My Fight for Inclusion and Lasting Change by Ellen Pao
 - Brotopia: Breaking Up the Boys' Club of Silicon Valley by Emily Chang
 
+## Other
+
+- [DevChix community](http://www.devchix.com/)
+
 ## TODO
 
 - Make a better layout
