@@ -6,7 +6,8 @@ Please contribute via pull requests or [issues](https://github.com/zky829/gender
 
 ## Links
 
-- [Gender-coded language](https://www.peoplebank.com.au/blog/2015/05/3-key-ways-to-attract-more-female-candidates)
+- [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
+- [Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gap.hks.harvard.edu/evidence-gendered-wording-job-advertisements-exists-and-sustains-gender-inequality)
 - [Unconscious gender bias](https://www.huffingtonpost.com/lisa-marie-jenkins/unconscious-gender-bias-e_b_7447524.html)
 - [Gender stereotyping](http://adage.com/article/global-news/u-k-bands-gender-stereotypes-ads/309785/)
 - [Inclusive design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
