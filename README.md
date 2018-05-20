@@ -12,6 +12,7 @@ Please contribute via pull requests or [issues](https://github.com/zky829/gender
 - [Inclusive design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
 - [Open Diversity Data](http://opendiversitydata.org/)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/)
+- [Ask a Geek Feminist: the definitive “women in CS/STEM” resource thread](https://geekfeminism.org/2010/05/31/ask-a-geek-feminist-the-definitive-women-in-csstem-resource-thread/)
 
 ### Impostor syndrome
 
@@ -30,7 +31,7 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 - The Second Sex by Simone de Beauvoir
 - We Should All Be Feminists by Chimamanda Ngozi Adichie
 - The Feminine Mystique by Betty Friedan
--  Reset: My Fight for Inclusion and Lasting Change by Ellen Pao
+- Reset: My Fight for Inclusion and Lasting Change by Ellen Pao
 - Brotopia: Breaking Up the Boys' Club of Silicon Valley by Emily Chang
 
 ## Other
