@@ -16,6 +16,7 @@ If you see anything problematic, please [point it out and/or suggest a replaceme
 - [Open Diversity Data](http://opendiversitydata.org/)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/)
 - [Ask a Geek Feminist: the definitive “women in CS/STEM” resource thread](https://geekfeminism.org/2010/05/31/ask-a-geek-feminist-the-definitive-women-in-csstem-resource-thread/)
+- [Why So Few? Women in Science, Technology, Engineering, and Mathematics](https://www.aauw.org/research/why-so-few/)
 
 ### Impostor syndrome
 
