@@ -38,6 +38,12 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 
 - [DevChix community](http://www.devchix.com/)
 
-## TODO
+## To do
 
 - Make a better layout
+
+## About the maintainer
+
+Building empathy for every single being and situation in our world is a lifelong mission for me. Recently, I began self-studying feminist theory. Being a gender and racial minority in my industry, an activist for reproductive and LGBT rights and volunteer in outreach programs, I did not realise that I've been a feminist all along until I embarked on my quest to learn more about diversity. 
+
+I am a software developer, yoga teacher, photographer, and artist.
