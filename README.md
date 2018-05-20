@@ -2,7 +2,7 @@
 
 This is a collection of resources which can be used to learn more about gender diversity.
 
-Please contribute via pull requests or [issues](https://github.com/zky829/gender-diversity-info/issues).
+This is intended to be a community effort - please contribute via pull requests or [issues](https://github.com/zky829/gender-diversity-info/issues). If you see anything problematic, please point it out and/or suggest a replacement. 
 
 ## Links
 
