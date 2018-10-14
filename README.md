@@ -8,6 +8,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 
 ## Links
 
+- [DevChix community](http://www.devchix.com/)
 - [Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gap.hks.harvard.edu/evidence-gendered-wording-job-advertisements-exists-and-sustains-gender-inequality)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/)
 - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
@@ -50,10 +51,6 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 - The Feminine Mystique by Betty Friedan
 - The Second Sex by Simone de Beauvoir
 - We Should All Be Feminists by Chimamanda Ngozi Adichie
-
-## Other
-
-- [DevChix community](http://www.devchix.com/)
 
 ## About the maintainer
 
