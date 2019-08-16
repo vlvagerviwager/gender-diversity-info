@@ -57,5 +57,3 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 ## About the maintainer
 
 Building empathy for every single being and situation in our world is a lifelong mission for me. Being a gender and racial minority in my industry, an activist for the right to bodily autonomy, and a volunteer in outreach programs, I did not realise that I could use my experience and voice to help others until I embarked on my quest to learn more about diversity. 
-
-I am a software developer, yoga teacher, aerialist, photographer, and artist.
