@@ -14,6 +14,8 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
 - [Inclusive design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
 - [Open Diversity Data](http://opendiversitydata.org/)
+- [Tips for Hiring Women in Tech From a Female CEO Who Had Trouble Hiring Women in Tech](https://women2.com/2018/07/17/tips-for-hiring-women-in-tech-from-a-female-ceo-who-had-trouble-hiring-women-in-tech/)
+- [Strategies for Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762?gi=e032f84fc443)
 
 ### Diversity in STEM
 
@@ -54,6 +56,6 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 
 ## About the maintainer
 
-Building empathy for every single being and situation in our world is a lifelong mission for me. Being a gender and racial minority in my industry, an activist for reproductive and LGBT rights, and volunteer in outreach programs, I did not realise that I could use my experience and voice to help others until I embarked on my quest to learn more about diversity. 
+Building empathy for every single being and situation in our world is a lifelong mission for me. Being a gender and racial minority in my industry, an activist for the right to bodily autonomy, and a volunteer in outreach programs, I did not realise that I could use my experience and voice to help others until I embarked on my quest to learn more about diversity. 
 
 I am a software developer, yoga teacher, aerialist, photographer, and artist.
