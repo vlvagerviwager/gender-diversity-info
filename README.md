@@ -22,6 +22,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 - [Ask a Geek Feminist: the definitive “women in CS/STEM” resource thread](https://geekfeminism.org/2010/05/31/ask-a-geek-feminist-the-definitive-women-in-csstem-resource-thread/)
 - [Engineering Diversity](https://dev.to/suedeyloh/engineering-diversity-48o3)
 - [Why So Few? Women in Science, Technology, Engineering, and Mathematics](https://www.aauw.org/research/why-so-few/)
+- [Women Role Model Lists](https://www.out-standing.org/heroes/)
 
 ### Gender bias
 
