@@ -1,6 +1,6 @@
 # Gender Diversity in Tech: Info and Resources
 
-This is a collection of resources which can be used to learn more about gender diversity and inclusion in the tech industry.
+This is a collection of resources which can be used to learn more about gender diversity and inclusion, with a focus on the tech industry.
 
 This is intended to be a community effort - please contribute via pull requests or [issues](https://github.com/vlvagerviwager/gender-diversity-info/issues). 
 
