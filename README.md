@@ -8,6 +8,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 
 ## Links
 
+- [Professional Women's Network Global](https://pwnglobal.net/)
 - [DevChix community](http://www.devchix.com/)
 - [Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gap.hks.harvard.edu/evidence-gendered-wording-job-advertisements-exists-and-sustains-gender-inequality)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/)
@@ -38,6 +39,9 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 - [Overcoming Impostor Syndrome](https://medium.com/the-only-woman-in-the-room/overcoming-impostor-syndrome-bdae04e46ec5)
 - [Geek Feminism Wiki: Impostor syndrome](http://geekfeminism.wikia.com/wiki/Impostor_syndrome)
 
+### For Executives
+
+[INSEAD Gender Diversity Programme](https://www.insead.edu/executive-education/open-online-programmes/insead-gender-diversity-programme)
 
 ## Books
 
