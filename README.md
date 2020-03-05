@@ -30,6 +30,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 - [Gender Bias simulator](http://doesgenderbiasmatter.com/)
 - [Gender stereotyping](http://adage.com/article/global-news/u-k-bands-gender-stereotypes-ads/309785/)
 - [Unconscious gender bias](https://www.huffingtonpost.com/lisa-marie-jenkins/unconscious-gender-bias-e_b_7447524.html)
+- [Project Implicit](https://implicit.harvard.edu/implicit/) - "The goal of the organization is to educate the public about hidden biases and to provide a “virtual laboratory” for collecting data on the Internet."
 
 ### Impostor syndrome
 
@@ -42,6 +43,15 @@ Members of underrepresented minorities and women suffer from impostor syndrome i
 ### For Executives
 
 [INSEAD Gender Diversity Programme](https://www.insead.edu/executive-education/open-online-programmes/insead-gender-diversity-programme)
+
+### Design Industry
+
+- [Kerning the Gap](https://www.kerningthegap.com/) - UK
+- [WhyDesign](http://whydesign.ie/) - Ireland
+
+### Ireland
+
+- [Herstory](https://www.herstory.ie/home)
 
 ## Books
 
