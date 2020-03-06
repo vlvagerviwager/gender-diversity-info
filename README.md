@@ -20,6 +20,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 
 ### Diversity in STEM
 
+- [How Our Engineering Environments are Killing Diversity: Introduction](https://www.kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction)
 - [Ask a Geek Feminist: the definitive “women in CS/STEM” resource thread](https://geekfeminism.org/2010/05/31/ask-a-geek-feminist-the-definitive-women-in-csstem-resource-thread/)
 - [Engineering Diversity](https://dev.to/suedeyloh/engineering-diversity-48o3)
 - [Why So Few? Women in Science, Technology, Engineering, and Mathematics](https://www.aauw.org/research/why-so-few/)
