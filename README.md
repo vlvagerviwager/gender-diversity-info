@@ -13,6 +13,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 - [Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gap.hks.harvard.edu/evidence-gendered-wording-job-advertisements-exists-and-sustains-gender-inequality)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/)
 - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
+- [JobVite Job Description Grader]|(https://www.jobvite.com/job-description-grader/#)
 - [Inclusive design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
 - [Open Diversity Data](http://opendiversitydata.org/)
 - [Tips for Hiring Women in Tech From a Female CEO Who Had Trouble Hiring Women in Tech](https://women2.com/2018/07/17/tips-for-hiring-women-in-tech-from-a-female-ceo-who-had-trouble-hiring-women-in-tech/)
