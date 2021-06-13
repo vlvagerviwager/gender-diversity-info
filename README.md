@@ -8,6 +8,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 
 ## Links
 
+- [2019  Diversity in the Workplace Report](https://reports.vessy.com/diversity-in-the-workplace/)
 - [Professional Women's Network Global](https://pwnglobal.net/)
 - [DevChix community](http://www.devchix.com/)
 - [Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gap.hks.harvard.edu/evidence-gendered-wording-job-advertisements-exists-and-sustains-gender-inequality)
