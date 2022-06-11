@@ -6,6 +6,12 @@ This is intended to be a community effort - please contribute via pull requests 
 
 If you see anything problematic or inaccurate, please [point it out and/or suggest a replacement](https://github.com/vlvagerviwager/gender-diversity-info/issues). If you have any feedback or think that I'm going about this in the wrong way, [say it](https://github.com/vlvagerviwager/gender-diversity-info/issues).
 
+## Tools
+
+- [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
+- [JobVite Job Description Grader]|(https://www.jobvite.com/job-description-grader/#)
+- [Joblint](https://joblint.org/)
+
 ## Links
 
 - [2019  Diversity in the Workplace Report](https://reports.vessy.com/diversity-in-the-workplace/)
@@ -13,8 +19,6 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 - [DevChix community](http://www.devchix.com/)
 - [Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gap.hks.harvard.edu/evidence-gendered-wording-job-advertisements-exists-and-sustains-gender-inequality)
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/)
-- [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
-- [JobVite Job Description Grader]|(https://www.jobvite.com/job-description-grader/#)
 - [Inclusive design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
 - [Open Diversity Data](http://opendiversitydata.org/)
 - [Tips for Hiring Women in Tech From a Female CEO Who Had Trouble Hiring Women in Tech](https://women2.com/2018/07/17/tips-for-hiring-women-in-tech-from-a-female-ceo-who-had-trouble-hiring-women-in-tech/)
