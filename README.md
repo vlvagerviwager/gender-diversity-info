@@ -9,7 +9,7 @@ If you see anything problematic or inaccurate, please [point it out and/or sugge
 ## Tools
 
 - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
-- [JobVite Job Description Grader]|(https://www.jobvite.com/job-description-grader/#)
+- [JobVite Job Description Grader](https://www.jobvite.com/job-description-grader/#)
 - [Joblint](https://joblint.org/)
 
 ## Links
